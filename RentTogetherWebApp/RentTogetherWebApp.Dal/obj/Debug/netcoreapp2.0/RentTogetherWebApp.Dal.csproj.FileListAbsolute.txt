@@ -1,0 +1,13 @@
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/obj/Debug/netcoreapp2.0/RentTogetherWebApp.Dal.csproj.CoreCompileInputs.cache
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/obj/Debug/netcoreapp2.0/RentTogetherWebApp.Dal.AssemblyInfoInputs.cache
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/obj/Debug/netcoreapp2.0/RentTogetherWebApp.Dal.AssemblyInfo.cs
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/bin/Debug/netcoreapp2.0/RentTogetherWebApp.Dal.deps.json
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/bin/Debug/netcoreapp2.0/RentTogetherWebApp.Dal.runtimeconfig.json
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/bin/Debug/netcoreapp2.0/RentTogetherWebApp.Dal.runtimeconfig.dev.json
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/bin/Debug/netcoreapp2.0/RentTogetherWebApp.Dal.dll
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/bin/Debug/netcoreapp2.0/RentTogetherWebApp.Dal.pdb
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/bin/Debug/netcoreapp2.0/RentTogetherWebApp.Interfaces.dll
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/bin/Debug/netcoreapp2.0/RentTogetherWebApp.Interfaces.pdb
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/obj/Debug/netcoreapp2.0/RentTogetherWebApp.Dal.csprojResolveAssemblyReference.cache
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/obj/Debug/netcoreapp2.0/RentTogetherWebApp.Dal.dll
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Dal/obj/Debug/netcoreapp2.0/RentTogetherWebApp.Dal.pdb

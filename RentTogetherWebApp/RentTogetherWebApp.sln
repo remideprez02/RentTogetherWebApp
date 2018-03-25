@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentTogetherWebApp.App", "RentTogetherWebApp\RentTogetherWebApp.App.csproj", "{0A6A9215-5C7B-4EA5-AC52-6EB8FBFFEAA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentTogetherWebApp.Interfaces", "RentTogetherWebApp.Interfaces\RentTogetherWebApp.Interfaces.csproj", "{8D0F4BE1-6002-4D04-B5FF-5F87E03A54FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentTogetherWebApp.Business", "RentTogetherWebApp.Business\RentTogetherWebApp.Business.csproj", "{DD1E05EF-009A-42E6-AEF7-F3FDAF9966C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentTogetherWebApp.Dal", "RentTogetherWebApp.Dal\RentTogetherWebApp.Dal.csproj", "{A8C65FE9-6897-4740-8D71-D838D23E2206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentTogetherWebApp.Entities", "RentTogetherWebApp.Entities\RentTogetherWebApp.Entities.csproj", "{BB462CEA-4B6A-4A32-A08B-18E4CA5428E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentTogetherWebApp.Common", "RentTogetherWebApp.Common\RentTogetherWebApp.Common.csproj", "{2DB2608A-94B7-409C-9E79-02C769A08557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6A9215-5C7B-4EA5-AC52-6EB8FBFFEAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6A9215-5C7B-4EA5-AC52-6EB8FBFFEAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6A9215-5C7B-4EA5-AC52-6EB8FBFFEAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6A9215-5C7B-4EA5-AC52-6EB8FBFFEAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0F4BE1-6002-4D04-B5FF-5F87E03A54FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0F4BE1-6002-4D04-B5FF-5F87E03A54FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0F4BE1-6002-4D04-B5FF-5F87E03A54FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0F4BE1-6002-4D04-B5FF-5F87E03A54FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1E05EF-009A-42E6-AEF7-F3FDAF9966C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1E05EF-009A-42E6-AEF7-F3FDAF9966C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1E05EF-009A-42E6-AEF7-F3FDAF9966C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1E05EF-009A-42E6-AEF7-F3FDAF9966C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C65FE9-6897-4740-8D71-D838D23E2206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C65FE9-6897-4740-8D71-D838D23E2206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C65FE9-6897-4740-8D71-D838D23E2206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C65FE9-6897-4740-8D71-D838D23E2206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB462CEA-4B6A-4A32-A08B-18E4CA5428E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB462CEA-4B6A-4A32-A08B-18E4CA5428E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB462CEA-4B6A-4A32-A08B-18E4CA5428E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB462CEA-4B6A-4A32-A08B-18E4CA5428E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB2608A-94B7-409C-9E79-02C769A08557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB2608A-94B7-409C-9E79-02C769A08557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB2608A-94B7-409C-9E79-02C769A08557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB2608A-94B7-409C-9E79-02C769A08557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

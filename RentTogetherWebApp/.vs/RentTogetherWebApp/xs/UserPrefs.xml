@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{0A6A9215-5C7B-4EA5-AC52-6EB8FBFFEAA3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RentTogetherWebApp.Interfaces/Business/IUserService.cs">
+    <Files>
+      <File FileName="RentTogetherWebApp.Dal/SqlService/SqlService.cs" Line="7" Column="6" />
+      <File FileName="RentTogetherWebApp.Interfaces/Dal/IDal.cs" Line="1" Column="1" />
+      <File FileName="RentTogetherWebApp.Business/UserService.cs" Line="1" Column="1" />
+      <File FileName="RentTogetherWebApp.Interfaces/Business/IUserService.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RentTogetherWebApp.App PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

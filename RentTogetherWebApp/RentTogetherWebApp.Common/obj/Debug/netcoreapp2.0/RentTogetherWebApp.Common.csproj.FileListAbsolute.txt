@@ -1,0 +1,10 @@
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Common/bin/Debug/netcoreapp2.0/RentTogetherWebApp.Common.deps.json
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Common/bin/Debug/netcoreapp2.0/RentTogetherWebApp.Common.runtimeconfig.json
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Common/bin/Debug/netcoreapp2.0/RentTogetherWebApp.Common.runtimeconfig.dev.json
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Common/bin/Debug/netcoreapp2.0/RentTogetherWebApp.Common.dll
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Common/bin/Debug/netcoreapp2.0/RentTogetherWebApp.Common.pdb
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Common/obj/Debug/netcoreapp2.0/RentTogetherWebApp.Common.csproj.CoreCompileInputs.cache
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Common/obj/Debug/netcoreapp2.0/RentTogetherWebApp.Common.AssemblyInfoInputs.cache
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Common/obj/Debug/netcoreapp2.0/RentTogetherWebApp.Common.AssemblyInfo.cs
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Common/obj/Debug/netcoreapp2.0/RentTogetherWebApp.Common.dll
+/Users/remi/Documents/ProjetsESGI/renttogetherwebapp/RentTogetherWebApp/RentTogetherWebApp.Common/obj/Debug/netcoreapp2.0/RentTogetherWebApp.Common.pdb
